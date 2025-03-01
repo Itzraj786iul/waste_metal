@@ -121,21 +121,21 @@ const Footer: React.FC<FooterProps> = ({ handleScroll }) => {
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-green-400 mr-3" />
                 <a href="mailto:info@metalai-recycle.com" className="text-gray-400 hover:text-green-400 transition-colors">
-                  info@metalai-recycle.com
+                  raziullahansari483@gmail.com
                 </a>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-green-400 mr-3" />
                 <a href="tel:+1234567890" className="text-gray-400 hover:text-green-400 transition-colors">
-                  +1 (234) 567-890
+                  +90 7233829678
                 </a>
               </li>
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-green-400 mr-3 mt-0.5" />
                 <span className="text-gray-400">
-                  123 Sustainability Ave<br />
-                  Eco City, EC 12345<br />
-                  United States
+                  HOSTEL H 318<br />
+                  NIT RAIPUR<br />
+                  CHHATISGARH
                 </span>
               </li>
             </ul>
